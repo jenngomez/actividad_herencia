@@ -1,6 +1,6 @@
 package com.yenifergomez.celular;
 
-public class Smartphone {
+public class Smartphone extends Celular {
 
     private String sistemaOperativo;
     private int almacenamiento;
