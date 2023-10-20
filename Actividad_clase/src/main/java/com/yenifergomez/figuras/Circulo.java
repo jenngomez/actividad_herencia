@@ -1,6 +1,6 @@
 package com.yenifergomez.figuras;
 
-public class Circulo {
+public class Circulo extends FigurasGeometricas{
 
     private int radio;
 
