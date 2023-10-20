@@ -1,6 +1,6 @@
 package com.yenifergomez.figuras;
 
-public class Triangulo {
+public class Triangulo extends FigurasGeometricas{
 
     private int angulos;
     private int base;
