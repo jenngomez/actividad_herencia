@@ -1,6 +1,6 @@
 package com.yenifergomez.persona;
 
-public class Estudiante {
+public class Estudiante extends Persona{
 
     private int nroMatricula;
 
