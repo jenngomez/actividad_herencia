@@ -1,6 +1,6 @@
 package com.yenifergomez.persona;
 
-public class Profesor {
+public class Profesor extends Persona {
 
     private String tipoPedagodia;
 
