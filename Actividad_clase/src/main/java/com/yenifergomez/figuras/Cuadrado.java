@@ -1,6 +1,6 @@
 package com.yenifergomez.figuras;
 
-public class Cuadrado {
+public class Cuadrado extends FigurasGeometricas{
 
     private int lado;
 
